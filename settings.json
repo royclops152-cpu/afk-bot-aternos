@@ -8,7 +8,7 @@
   "server": {
     "ip": "JACOBislands.aternos.me",
     "port": 14232,
-    "version": "26.2"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
